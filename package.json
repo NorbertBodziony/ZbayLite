@@ -44,14 +44,14 @@
     "publish": {
       "provider": "github",
       "repo": "ZbayLite",
-      "owner": "ZbayApp",
+      "owner": "NorbertBodziony",
       "releaseType": "draft"
     },
     "extraResources": "worker/**/*"
   },
   "homepage": "https://gitlab.rumblefishdev.com/holmes/zbay",
   "@comment version": "To build new version for specific platform, just replace platform in version tag to one of following linux, mac, windows",
-  "version": "1.0.5-test-2",
+  "version": "1.2.1-test-2",
   "description": "Distributed goods and bulletin board",
   "main": "dist/main.js",
   "scripts": {
